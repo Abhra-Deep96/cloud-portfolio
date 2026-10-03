@@ -1,0 +1,2 @@
+# AWS-Projects
+Hosting a static website on Amazon S3
